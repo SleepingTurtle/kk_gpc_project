@@ -1,2 +1,1 @@
-# kk_gpc_project
-Kobe Kloud GCP Project
+# Kode Kloud GCP Project
